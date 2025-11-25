@@ -1,0 +1,6 @@
+\\s2inst01\Instaladores\Microsoft\Microsoft Visual Studio\Visual Studio 6
+\\s2inst01\Instaladores\Microsoft\Microsoft Visual Studio\VS.NET 2005
+\\s2inst01\Instaladores\Microsoft\Microsoft Visual Studio\VS.NET 2010\Ultimate
+\\s2inst01\Instaladores\Borland Delphi
+\\s2inst01\Instaladores\PowerDesigner
+\\s2inst01\Instaladores\IBM\DB2\DataStudio_4.1.3
